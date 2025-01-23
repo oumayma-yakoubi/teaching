@@ -54,7 +54,9 @@ This project highlights an innovative approach to delivering personalized musica
 
 * **CSS**: (Cascading Style Sheets) allows for the creation of visually appealing web pages.
 
+* **GitHub**: For version control and management.
+
 #### Note: 
 During the development of this project, we primarily relied on the D3 documentation. The first visualization is directly inspired by an example provided in this documentation. We also used ChatGPT to assist us in working with the D3 language, while remaining attentive to potential errors it might produce.
 
-* **GitHub**: For version control and management.
+
