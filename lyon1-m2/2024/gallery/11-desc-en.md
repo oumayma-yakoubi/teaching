@@ -22,8 +22,8 @@ This project highlights an innovative approach to delivering personalized musica
 - Which music genres represent my preferences?
 - Am I more inclined toward music or storytelling (podcasts) daily?
 - Which of my playlists is the most content-rich?
-
-  ## Visualizations
+  
+## Visualizations
 
 1. **Your Listening Ecosystem**
    A visual map highlighting your most-listened-to artists, showcasing the most intense points and the pillars of your musical year.
@@ -53,5 +53,8 @@ This project highlights an innovative approach to delivering personalized musica
 * **HTML**: HyperText Markup Language, usually abbreviated as HTML or, in its latest version, HTML5, is the markup language designed for writing web pages.
 
 * **CSS**: (Cascading Style Sheets) allows for the creation of visually appealing web pages.
+
+#### Note: 
+During the development of this project, we primarily relied on the D3 documentation. The first visualization is directly inspired by an example provided in this documentation. We also used ChatGPT to assist us in working with the D3 language, while remaining attentive to potential errors it might produce.
 
 * **GitHub**: For version control and management.
