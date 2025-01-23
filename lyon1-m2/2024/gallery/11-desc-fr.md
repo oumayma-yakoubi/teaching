@@ -49,3 +49,6 @@ Ce projet met en avant une approche innovante pour offrir des insights musicaux 
 * **HTML** : Le HyperText Markup Language, généralement abrégé HTML ou, dans sa dernière version, HTML5, est le langage de balisage conçu pour écrire les pages web.
 * **CSS** : (Cascading Style Sheets) permet de créer des pages web à l'apparence soignée.
 * **GitHub** : pour la gestion des versions
+
+  #### Note:
+Lors de la réalisation de ce projet, nous nous sommes principalement appuyés sur la documentation de D3. La première visualisation est directement inspirée d’un exemple issu de cette documentation. Nous avons également utilisé ChatGPT pour nous assister dans l’exploitation du langage D3, tout en restant attentifs aux éventuelles erreurs générées par cet outil.
