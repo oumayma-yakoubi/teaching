@@ -1,4 +1,4 @@
-# Visualisation des données personnelles Spotify 
+# Spotify Personal Data Visualization
 
 ## Abstract
 
